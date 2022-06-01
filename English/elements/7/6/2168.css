@@ -1,0 +1,97 @@
+h1 {
+	FONT-SIZE: 24pt;
+}
+h2 {
+	FONT-SIZE: 22pt;
+}
+h3 {
+	FONT-SIZE: 20pt;
+}
+h4 {
+	FONT-SIZE: 18pt;
+}
+h5 {
+	FONT-SIZE: 17pt;
+}
+h6 {
+	FONT-SIZE: 16pt;
+}
+BODY
+{
+BACKGROUND-COLOR: #FFFFFF;
+COLOR: #000000;
+FONT-FAMILY: 'SARASA MONO SLAB CL';
+FONT-STYLE: normal;
+FONT-WEIGHT: normal;
+FONT-SIZE: 14pt;
+}
+code {
+	font-family: consolas;
+}
+.Cloze {
+	BACKGROUND-COLOR: #FFFF00; 
+	COLOR: red;
+	FONT-WEIGHT: bold;
+}
+.clozed {
+	BACKGROUND-COLOR: #EFA75F;
+	FONT-WEIGHT: bold;
+}
+.Extract {
+	BACKGROUND-COLOR: #A1E0FF;
+}
+.Headers {
+	BACKGROUND-COLOR: #C6C6FF;
+	COLOR: #191919;
+	FONT-STYLE: normal;
+	FONT-WEIGHT: bold;
+	FONT-SIZE: 18pt;
+}
+.RefText {
+	BACKGROUND-COLOR: #FFFFC4;
+	COLOR: #191919;
+	FONT-STYLE: normal;
+	FONT-WEIGHT: bold;
+}
+.Reference
+{
+	BACKGROUND-COLOR: #FFFFCC;
+	COLOR: #FFF2E2;
+	FONT-SIZE: 10pt;
+}
+.Highlight {
+	BACKGROUND-COLOR: #FFFF86;
+	COLOR: #191919;
+	FONT-STYLE: normal;
+	FONT-WEIGHT: bold;
+}
+.SearchHighlight {
+	BACKGROUND-COLOR: yellow;
+	COLOR: black;
+	FONT-STYLE: normal;
+	FONT-WEIGHT: bold;
+}
+.Ignore {
+	BACKGROUND-COLOR: #DAB6B6;
+	COLOR: #191919;
+	FONT-STYLE: italic;
+	FONT-WEIGHT: normal;
+}
+.tablelabel {
+	BACKGROUND-COLOR: #CCCCCC;
+	COLOR: blue;
+	FONT-STYLE: italic;
+	FONT-WEIGHT: normal;
+}
+.hint {
+    padding: .25em;
+    background-color: #e0e0e0;
+}
+.note {
+    font-size: smaller;
+}
+
+a.external {
+    padding-right: 13px;
+    background: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAVklEQVR4Xn3PgQkAMQhDUXfqTu7kTtkpd5RA8AInfArtQ2iRXFWT2QedAfttj2FsPIOE1eCOlEuoWWjgzYaB/IkeGOrxXhqB+uA9Bfcm0lAZuh+YIeAD+cAqSz4kCMUAAAAASUVORK5CYII=") center right no-repeat;
+}
