@@ -1,15 +1,15 @@
 SuperMemo Report
    Activity: Importing from F:\knowledge_db\BaseKnowledge\pages\NoteToCard.xml
    Collection: f:\supermemo\systems\english
-   Date: Thursday, June 16, 2022, 1:22:22 PM
+   Date: Friday, July 1, 2022, 9:43:32 PM
    SuperMemo 18 (Build 18.05, Oct 29, 2020)
 
-Dismissing Concept #2,592: NoteToCard
+Dismissing Concept #2,608: NoteToCard
 
-Dismissing Topic #2,593: NoteToCard
+Dismissing Topic #2,609: NoteToCard
 
 
-Process completed at 1:22:22 PM in 00:00:00 sec (Thursday, June 16, 2022)
+Process completed at 9:43:33 PM in 00:00:00 sec (Friday, July 1, 2022)
 
 NO ERRORS (Importing from F:\knowledge_db\BaseKnowledge\pages\NoteToCard.xml)
 
