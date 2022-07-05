@@ -1,15 +1,27 @@
 SuperMemo Report
    Activity: Importing from F:\knowledge_db\BaseKnowledge\pages\NoteToCard.xml
    Collection: f:\supermemo\systems\english
-   Date: Friday, July 1, 2022, 9:43:32 PM
+   Date: Monday, July 4, 2022, 11:16:27 AM
    SuperMemo 18 (Build 18.05, Oct 29, 2020)
 
-Dismissing Concept #2,608: NoteToCard
+Dismissing Concept #2,645: NoteToCard
 
-Dismissing Topic #2,609: NoteToCard
+Dismissing Topic #2,646: NoteToCard
+
+Dismissing Topic #2,647: 2022/7/3All0
+
+Dismissing Topic #2,648: 使用英文解释下列语句中划线的部分: During the explosion, radioactive material was produced. This is what powers the brightness of the supernova.
+
+Dismissing Topic #2,601: 使用英文解释下列语句中划线的部分: He added that some of the material "was left over in the surviving remnant star" and acted as fuel to heat it.
+
+Dismissing Topic #2,649: 使用中文翻译划线的部分: It is spoken in many Indigenous communities in the United States and Canada.
+
+Dismissing Topic #2,650: 使用中文翻译划线的部分: Her ancestors were called the Dene people, but she does not speak her tribe's language of Slavey.
+
+Dismissing Topic #2,593: 使用英文解释下列语句中划线的部分: He said that the most important quality is how the pitch and intonation rises and falls like a song.
 
 
-Process completed at 9:43:33 PM in 00:00:00 sec (Friday, July 1, 2022)
+Process completed at 11:16:27 AM in 00:00:00 sec (Monday, July 4, 2022)
 
 NO ERRORS (Importing from F:\knowledge_db\BaseKnowledge\pages\NoteToCard.xml)
 
